@@ -5,7 +5,7 @@ class MojitoCli < Formula
   url "https://github.com/box/mojito/releases/download/v0.98/mojito-cli-0.98.jar"
   sha256 "e26e4d46cd4dad32c2a775f01948c48fa75d5b34fde271af2bf26cab315fa63c"
 
-  head "git@github.com:box/mojito.git", :using => :git, :branch => "master"
+  head "git@github.com:dragosv/mojito.git", :using => :git, :branch => "master"
 
   depends_on :java => "1.8"
 

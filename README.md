@@ -2,4 +2,4 @@
 
 Tap to install [Mojito](http://www.mojito.global). 
 
-`brew tap box/mojito`
+`brew tap dragosv/mojito`
